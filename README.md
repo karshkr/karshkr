@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karshkr
-- 👀 I’m interested in ...comeptetive programming and learning skills
-- 🌱 I’m currently learning ...c
+- 👀 I’m interested in ...Comeptetive Programming and learning skills
+- 🌱 I’m currently learning ... c, c++ & DSA
 - 💞️ I’m looking to collaborate on ...interships,programms
 - 📫 How to reach me ...karshkr01@outlook.com
 
