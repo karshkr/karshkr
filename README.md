@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karshkr
+- 👋 Hi, I’m @ Utkarsh Kumar Dabgarwal
 - 👀 I’m interested in ...Comeptetive Programming and learning skills
 - 🌱 I’m currently learning ... c, c++ & DSA
 - 💞️ I’m looking to collaborate on ...interships,programms
